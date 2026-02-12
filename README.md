@@ -20,12 +20,6 @@ Me enfoco en escribir código claro, mejorar cada día y construir proyectos rea
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 </p>
 
-- ☕ Java  
-- 🌐 HTML5  
-- 🎨 CSS3  
-- ⚡ JavaScript  
-- 🔧 Git & GitHub  
-
 ---
 
 ## 📂 Proyectos Destacados
