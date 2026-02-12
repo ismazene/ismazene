@@ -38,7 +38,7 @@ Prácticas enfocadas en estructura y organización del código.
 
 ### 🎮 POO y Estructuras
 Ejercicios avanzados de Programación Orientada a Objetos.
-🔗 https://github.com/ismazene/POO_Programacion
+🔗 [https://github.com/ismazene/POO_Programacion](https://github.com/ismazene/POO_daw)
 
 ---
 
