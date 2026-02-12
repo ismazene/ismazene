@@ -48,16 +48,6 @@ Ejercicios avanzados de Programación Orientada a Objetos.
 
 ---
 
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismazene&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismazene&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Objetivos 2026
 
 - 🚀 Mejorar en Java y estructuras de datos  
@@ -71,7 +61,10 @@ Ejercicios avanzados de Programación Orientada a Objetos.
 
 Si quieres colaborar o hablar sobre programación:
 
-📩 Puedes contactarme a través de GitHub.
+📩 Puedes contactarme a través de mi correo: ismaelzeneddine@gmail.com.
+
+O a mi numero personal 722 25 07 56
+
 
 ---
 
