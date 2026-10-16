@@ -20,7 +20,7 @@ Construyo proyectos reales y me importa escribir código claro, medir antes de a
 
 ## Lo que estoy construyendo
 
-- **RAG local con citas y evaluación reproducible**: un asistente que responde sobre documentos solo con evidencia, se abstiene cuando no la tiene y mide su propia calidad con métricas. Python, FastAPI, ChromaDB, Ollama y Docker. *(Lo publicaré como proyecto de portfolio.)*
+- **[RAG Evaluado](https://github.com/ismazene/rag-evaluado)**: RAG local con citas y evaluación reproducible: un asistente que responde sobre documentos solo con evidencia, se abstiene cuando no la tiene y mide su propia calidad con métricas. Python, FastAPI, ChromaDB, Ollama y Docker.
 - Reforzando **Java, estructuras de datos y programación orientada a objetos**.
 - Mejorando mi **inglés técnico** para trabajar en equipos internacionales.
 
@@ -28,6 +28,7 @@ Construyo proyectos reales y me importa escribir código claro, medir antes de a
 
 | Proyecto | Qué es |
 | --- | --- |
+| [RAG Evaluado](https://github.com/ismazene/rag-evaluado) | Asistente RAG local con citas, abstención y evaluación reproducible (Python, FastAPI, Docker) |
 | [ProgramaMe](https://github.com/ismazene/ProgramaMe) | Ejercicios de programación competitiva en Java |
 | [Programación Modular](https://github.com/ismazene/Programacion_Modular) | Estructura y organización del código en Java |
 | [POO DAW](https://github.com/ismazene/POO_daw) | Programación orientada a objetos en profundidad |
