@@ -29,11 +29,12 @@ Construyo proyectos reales y me importa escribir código claro, medir antes de a
 | Proyecto | Qué es |
 | --- | --- |
 | [RAG Evaluado](https://github.com/ismazene/rag-evaluado) | Asistente RAG local con citas, abstención y evaluación reproducible (Python, FastAPI, Docker) |
-| [ProgramaMe](https://github.com/ismazene/ProgramaMe) | Ejercicios de programación competitiva en Java |
-| [Programación Modular](https://github.com/ismazene/Programacion_Modular) | Estructura y organización del código en Java |
-| [POO DAW](https://github.com/ismazene/POO_daw) | Programación orientada a objetos en profundidad |
-| [Los Jardines de la Alhambra](https://github.com/ismazene/Los-Jardines-De-La-Alhambra) | Sitio web en HTML y CSS |
-| [Personal Trainer](https://github.com/ismazene/personal_trainer) | Web de un entrenador personal |
+| [POO DAW](https://github.com/ismazene/POO_daw) | Programación orientada a objetos en Java: colecciones, interfaces, ficheros y JavaFX |
+| [Programación Modular](https://github.com/ismazene/Programacion_Modular) | Prácticas de programación modular en Java con pruebas JUnit |
+| [Programación](https://github.com/ismazene/Programacion) | Ejercicios de programación en Java del ciclo DAW |
+| [Los Jardines de la Alhambra](https://github.com/ismazene/Los-Jardines-De-La-Alhambra) | Proyecto Java con pruebas unitarias y documentación Javadoc |
+| [Personal Trainer](https://github.com/ismazene/personal_trainer) | Landing page en HTML, CSS y JS para un servicio de entrenamiento |
+| [Peluquería](https://github.com/ismazene/Peluqueria) | Demo web de reservas (solo demostración) |
 
 ## Stack
 
